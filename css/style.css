@@ -1,0 +1,36 @@
+body{
+    background-color: brown;
+    margin: 0px;
+}
+.h{
+    margin: 0px;
+    color: ivory;
+    font-weight: bold;
+    font-size: 6em;
+    padding-top:160px;
+    font-family: monospace;
+    text-align: center
+}
+.photos{
+    flex-direction: row;
+    padding-top: 4em;
+    align-content: center;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 3em;
+}
+footer{
+    background-color: black;
+    display: flex;
+    align-content: center;
+    height: 6em;
+    justify-content: center;
+ 
+}
+.name{
+    color: ivory;
+    font-family: monospace;
+    
+    font-size: 2em;
+    padding-top: 1em;
+}
